@@ -8,7 +8,9 @@ Huge thanks to Arsh Goyal for creating this fantastic [resource](https://lnkd.in
 `
 
 > **DAY 1**
-1 Remove Duplicates from Sorted Array
+1 - [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/solutions/5524617/best-solution-challenge-day-1-revisewitharsh)
+2 - [Move Zeroes](https://leetcode.com/problems/move-zeroes/solutions/5524919/best-solution-challenge-day-1-revisewitharsh/)
+3 - Best Time to Buy and Sell Stock
 
 
 ---
@@ -28,6 +30,7 @@ Huge thanks to Arsh Goyal for creating this fantastic [resource](https://lnkd.in
 |-------|----------------------------------------|----------------------------------------------------------------------------------------------|--------------------------------------------------|
 | **Day 1** | [1. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [LeetCode Solution](https://leetcode.com/problems/remove-duplicates-from-sorted-array/solutions/5524617/best-solution-challenge-day-1-revisewitharsh) | [GitHub Solution Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%201/Arrays/1%20-%20Remove%20Duplicates%20from%20Sorted%20Array.md)|
 |  | [2. Move Zeros](https://leetcode.com/problems/move-zeroes/description/) | [LeetCode Solution](https://leetcode.com/problems/move-zeroes/solutions/5524919/best-solution-challenge-day-1-revisewitharsh) | [GitHub Solution Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%201/Arrays/2%20-%20Move%20Zeroes.md)|
+|  | [3. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | [LeetCode Solution](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/solutions/5524972/best-solution-challenge-day-1-revisewitharsh) | [GitHub Solution Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%201/Arrays/3%20-%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)|
 
 <!--
 |       | Example Question 1                    | [LeetCode Solution](#)                                                                       | [GitHub Repo](#) | [Post Link](#)                   |
