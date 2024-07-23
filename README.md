@@ -3,12 +3,31 @@
 Over the next 45 days, I’ll be working through a curated DSA sheet to sharpen my skills for upcoming interviews and assessments.
 Huge thanks to Arsh Goyal for creating this fantastic [resource](https://lnkd.in/d35yKrSW)! 🙌
 
+<!--
+`#CrackYourInternship #CrackYourPlacement Challenge - #ReviseWithArsh
+`
+
+> **DAY 1**
+1 Remove Duplicates from Sorted Array
+
+
+---
+
+***Follow my progress and join the challenge on my*** **[GitHub](https://github.com/nandini-gangrade/DSA-Sheet) *and* [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7221580562367414272/)** 
+
+![image.png](https://assets.leetcode.com/users/images/dd42a649-e1d9-4b22-9eb8-add015c24468_1721761764.4795635.png)
+
+`Let's tackle these coding challenges together! 🚀
+`
+
+-->
+
 ## Coding Challenge Track
 
 | Day   | Problem                                | LC Solution                                                                                  | Repo/Post Link                                   |
 |-------|----------------------------------------|----------------------------------------------------------------------------------------------|--------------------------------------------------|
 | **Day 1** | [1. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [LeetCode Solution](https://leetcode.com/problems/remove-duplicates-from-sorted-array/solutions/5524617/best-solution-challenge-day-1-revisewitharsh) | [GitHub Solution Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%201/Arrays/1%20-%20Remove%20Duplicates%20from%20Sorted%20Array.md)|
-|  | [2. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [LeetCode Solution](https://leetcode.com/problems/remove-duplicates-from-sorted-array/solutions/5524617/best-solution-challenge-day-1-revisewitharsh) | [GitHub Solution Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%201/Arrays/1%20-%20Remove%20Duplicates%20from%20Sorted%20Array.md)|
+|  | [2. Move Zeros](https://leetcode.com/problems/move-zeroes/description/) | [LeetCode Solution](https://leetcode.com/problems/move-zeroes/solutions/5524919/best-solution-challenge-day-1-revisewitharsh) | [GitHub Solution Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%201/Arrays/1%20-%20Remove%20Duplicates%20from%20Sorted%20Array.md)|
 
 <!--
 |       | Example Question 1                    | [LeetCode Solution](#)                                                                       | [GitHub Repo](#) | [Post Link](#)                   |
