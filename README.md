@@ -1,4 +1,4 @@
-# #CrackYourInternship #CrackYourPlacement Challenge - #ReviseWithArsh!
+## #CrackYourInternship #CrackYourPlacement Challenge - #ReviseWithArsh!
 
 Over the next 45 days, I’ll be working through a curated DSA sheet to sharpen my skills for upcoming interviews and assessments.
 Huge thanks to Arsh Goyal for creating this fantastic [resource](https://lnkd.in/d35yKrSW)! 🙌
@@ -22,7 +22,7 @@ Huge thanks to Arsh Goyal for creating this fantastic [resource](https://lnkd.in
 
 -->
 
-## Coding Challenge Track
+### Coding Challenge Track
 
 | Day   | Problem                                | LC Solution                                                                                  | Repo/Post Link                                   |
 |-------|----------------------------------------|----------------------------------------------------------------------------------------------|--------------------------------------------------|
