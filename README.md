@@ -7,21 +7,17 @@ Huge thanks to Arsh Goyal for creating this fantastic [resource](https://lnkd.in
 `#CrackYourInternship #CrackYourPlacement Challenge - #ReviseWithArsh
 `
 
-> **DAY 2**
+> **DAY 3**
 1 - Find the Duplicate Number
-2 - Sort Colors
-3 - Best Time to Buy and Sell Stock II
+
 
 ---
-
+![upvotee.jpg](https://assets.leetcode.com/users/images/e9ab2638-b67e-4627-b3b2-9a9a22f0846e_1674113681.4102023.jpeg)
 
 ***Follow my progress and join the challenge on my*** **[GitHub](https://github.com/nandini-gangrade/DSA-Sheet) *and* [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7221580562367414272/)** 
 
-
-![upvotee.jpg](https://assets.leetcode.com/users/images/e9ab2638-b67e-4627-b3b2-9a9a22f0846e_1674113681.4102023.jpeg)
-
 `Let's tackle these coding challenges together! 🚀
-`
+
 -->
 
 ### Coding Challenge Track
@@ -44,11 +40,11 @@ Huge thanks to Arsh Goyal for creating this fantastic [resource](https://lnkd.in
 | | [14. Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | [LeetCode Solution](https://leetcode.com/problems/container-with-most-water/solutions/5535434/step-by-step-explanation-challenge-day-2-revisewitharsh) | [GitHub Solution Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%202/Arrays/14%20-%20Container%20With%20Most%20Water.md)|
 | | [15. 3Sum](https://leetcode.com/problems/3sum/description/) | [LeetCode Solution](https://leetcode.com/problems/3sum/solutions/3697940/step-by-step-explanation-challenge-day-2-revisewitharsh) | [GitHub Solution Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%202/Arrays/15%20-%203Sum.md)|
 | | [16. 4Sum](https://leetcode.com/problems/4sum/description/) | [LeetCode Solution](https://leetcode.com/problems/4sum/solutions/5535754/step-by-step-explanation-challenge-day-2-revisewitharsh) | [GitHub Solution Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%202/Arrays/16%20-%204Sum.md)|
-| | [16. 4Sum](https://leetcode.com/problems/4sum/description/) | [LeetCode Solution](https://leetcode.com/problems/3sum/solutions/3697940/step-by-step-explanation-challenge-day-2-revisewitharsh) | [GitHub Solution Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%202/Arrays/15%20-%203Sum.md)|
-
-***Follow my progress and join the challenge on my*** **[GitHub](https://github.com/nandini-gangrade/DSA-Sheet), [Leetcode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/solutions/5524617/best-solution-challenge-day-1-revisewitharsh) *and* [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7221580562367414272/)** 
+| | [17. Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/description/) | [LeetCode Solution](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/solutions/5535805/step-by-step-explanation-challenge-day-2-revisewitharsh) | [GitHub Solution Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%202/Arrays/17%20-%20Maximum%20Points%20You%20Can%20Obtain%20from%20Cards.md)|
 
 ![image.png](https://assets.leetcode.com/users/images/dd42a649-e1d9-4b22-9eb8-add015c24468_1721761764.4795635.png)
+
+***Follow my progress and join the challenge on my*** **[GitHub](https://github.com/nandini-gangrade/DSA-Sheet), [Leetcode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/solutions/5524617/best-solution-challenge-day-1-revisewitharsh) *and* [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7221580562367414272/)** 
 
 `Let's tackle these coding challenges together! 🚀
 `
