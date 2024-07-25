@@ -7,23 +7,21 @@ Huge thanks to Arsh Goyal for creating this fantastic [resource](https://lnkd.in
 `#CrackYourInternship #CrackYourPlacement Challenge - #ReviseWithArsh
 `
 
-> **DAY 1**
-1 - [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/solutions/5524617/best-solution-challenge-day-1-revisewitharsh)
-2 - [Move Zeroes](https://leetcode.com/problems/move-zeroes/solutions/5524919/best-solution-challenge-day-1-revisewitharsh/)
-3 - [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/solutions/5524972/best-solution-challenge-day-1-revisewitharsh)
-4 - [Chocolate Distribution Problem](https://discuss.geeksforgeeks.org/comment/d0ca575e-1df7-4b5e-96cb-55941a171e06/practice)
-5 - [Two Sum](https://leetcode.com/problems/two-sum/solutions/5525028/best-solution-challenge-day-1-revisewitharsh)
-6 - Merge Sorted Array
+> **DAY 2**
+1 - Find the Duplicate Number
+2 - Sort Colors
+3 - Best Time to Buy and Sell Stock II
 
 ---
 
-***Follow my progress and join the challenge on my*** **[GitHub](https://github.com/nandini-gangrade/DSA-Sheet), [Leetcode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/solutions/5524617/best-solution-challenge-day-1-revisewitharsh) *and* [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7221580562367414272/)** 
 
-![image.png](https://assets.leetcode.com/users/images/dd42a649-e1d9-4b22-9eb8-add015c24468_1721761764.4795635.png)
+***Follow my progress and join the challenge on my*** **[GitHub](https://github.com/nandini-gangrade/DSA-Sheet) *and* [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7221580562367414272/)** 
+
+
+![upvotee.jpg](https://assets.leetcode.com/users/images/e9ab2638-b67e-4627-b3b2-9a9a22f0846e_1674113681.4102023.jpeg)
 
 `Let's tackle these coding challenges together! 🚀
 `
-
 -->
 
 ### Coding Challenge Track
@@ -36,9 +34,13 @@ Huge thanks to Arsh Goyal for creating this fantastic [resource](https://lnkd.in
 |  | [4. Chocolate Distribution Problem](https://www.geeksforgeeks.org/problems/chocolate-distribution-problem3825/1) | [GFG Solution](https://discuss.geeksforgeeks.org/comment/d0ca575e-1df7-4b5e-96cb-55941a171e06/practice) | [GitHub Solution Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%201/Arrays/4%20-%20Chocolate%20Distribution%20Problem.md)|
 |  | [5. Two Sum](https://leetcode.com/problems/two-sum/description/) | [LeetCode Solution](https://leetcode.com/problems/two-sum/solutions/5525028/best-solution-challenge-day-1-revisewitharsh) | [GitHub Solution Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%201/Arrays/5%20-%20Two%20Sum.md)|
 |  | [6. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [LeetCode Solution](https://leetcode.com/problems/merge-sorted-array/solutions/5525044/best-solution-challenge-day-1-revisewitharsh) | [GitHub Solution Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%201/Arrays/6%20-%20Merge%20Sorted%20Array.md)|
-|  | [7. Majority Element](https://leetcode.com/problems/majority-element/description/) | [Leetcode](https://leetcode.com/problems/majority-element/solutions/5525064/best-solution-challenge-day-1-revisewitharsh) | [GitHub Solution Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%201/Arrays/7%20-%20Majority%20Element.md)|
-|  | [8. Set Matrix Zeroes](https://leetcode.com/problems/majority-element/description/) | [Leetcode](https://leetcode.com/problems/set-matrix-zeroes/solutions/5527966/best-solution-challenge-day-1-revisewitharsh/) | [GitHub Solution Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%201/Arrays/8%20-%20Set%20Matrrix%20Zero.md)|
-
+|  | [7. Majority Element](https://leetcode.com/problems/majority-element/description/) | [Leetcode Solution](https://leetcode.com/problems/majority-element/solutions/5525064/best-solution-challenge-day-1-revisewitharsh) | [GitHub Solution Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%201/Arrays/7%20-%20Majority%20Element.md)|
+|  | [8. Set Matrix Zeroes](https://leetcode.com/problems/majority-element/description/) | [Leetcode Solution](https://leetcode.com/problems/set-matrix-zeroes/solutions/5527966/best-solution-challenge-day-1-revisewitharsh/) | [GitHub Solution Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%201/Arrays/8%20-%20Set%20Matrrix%20Zero.md)|
+| **Day 2** | [9. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) | [LeetCode Solution](https://leetcode.com/problems/find-the-duplicate-number/solutions/5528716/best-solution-challenge-day-2-revisewitharsh/) | [GitHub Solution Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%202/Arrays/9%20-%20Find%20the%20Duplicate%20Number.md)|
+| | [10. Sort Colors](https://leetcode.com/problems/sort-colors/description/) | [LeetCode Solution](https://leetcode.com/problems/sort-colors/solutions/5529132/best-solution-challenge-day-2-revisewitharsh/) | [GitHub Solution Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%202/Arrays/10%20-%20Sort%20Colors.md)|
+| | [11. Subarray Sums Divisible by K](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) | [LeetCode Solution](https://leetcode.com/problems/subarray-sums-divisible-by-k/solutions/3071714/easy-video-explaination-step-by-step-explanation-challenge-day-2-revisewitharsh) | [GitHub Solution Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%202/Arrays/12%20-%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md)|
+| | [12. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) | [LeetCode Solution](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/solutions/5535198/best-solution-challenge-day-2-revisewitharsh/) | [GitHub Solution Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%202/Arrays/12%20-%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md)|
+| | [13. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/) | [LeetCode Solution](https://leetcode.com/problems/find-all-duplicates-in-an-array/solutions/5535347/step-by-step-explanation-challenge-day-2-revisewitharsh) | [GitHub Solution Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%202/Arrays/10%20-%20Sort%20Colors.md)|
 
 ***Follow my progress and join the challenge on my*** **[GitHub](https://github.com/nandini-gangrade/DSA-Sheet), [Leetcode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/solutions/5524617/best-solution-challenge-day-1-revisewitharsh) *and* [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7221580562367414272/)** 
 
