@@ -92,7 +92,5 @@ This approach efficiently identifies the duplicate number by leveraging the prop
 
 ***Follow my progress and join the challenge on my*** **[GitHub](https://github.com/nandini-gangrade/DSA-Sheet), [Leetcode](https://leetcode.com/problems/find-the-duplicate-number/solutions/5528716/best-solution-challenge-day-2-revisewitharsh/) *and* [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7221580562367414272/)** 
 
-![image.png](https://assets.leetcode.com/users/images/dd42a649-e1d9-4b22-9eb8-add015c24468_1721761764.4795635.png)
-
 `Let's tackle these coding challenges together! 🚀
 `
