@@ -75,7 +75,6 @@ This approach efficiently identifies duplicates in the array without requiring a
 
 ***Follow my progress and join the challenge on my*** **[GitHub](https://github.com/nandini-gangrade/DSA-Sheet) *and* [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7221580562367414272/)** 
 
-
 ![upvotee.jpg](https://assets.leetcode.com/users/images/e9ab2638-b67e-4627-b3b2-9a9a22f0846e_1674113681.4102023.jpeg)
 
 `Let's tackle these coding challenges together! 🚀
