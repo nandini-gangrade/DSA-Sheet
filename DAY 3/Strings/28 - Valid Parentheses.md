@@ -24,6 +24,7 @@ Use a stack to track the open brackets as you traverse the string:
 
 ## Code
 
+**py**
 ```python []
 class Solution:
     def isValid(self, s: str) -> bool:
@@ -40,7 +41,7 @@ class Solution:
         
         return not stack
 ```
-
+**cpp**
 ```cpp []
 #include <stack>
 #include <unordered_map>
@@ -68,7 +69,7 @@ public:
     }
 };
 ```
-
+**java**
 ```java []
 import java.util.Stack;
 import java.util.HashMap;
@@ -97,7 +98,7 @@ class Solution {
     }
 }
 ```
-
+**js**
 ```javascript []
 /**
  * @param {string} s
