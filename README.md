@@ -8,10 +8,19 @@ Huge thanks to Arsh Goyal for creating this fantastic [resource](https://lnkd.in
 `#CrackYourInternship #CrackYourPlacement Challenge - #ReviseWithArsh
 `
 
-> **DAY 3**
-1 - Subarray Sum Equals K
+> DAY 4
+1 - Longest Common Prefix
+2 - Valid Palindrome II
+3 - Integer to Roman
+4 - Generate Parentheses
+5 - Simplify Path
+6 - Smallest window in a string containing all the characters of another string
+7 - Reverse Words in a String.md
+8 - Rabin-Karp Algorithm for Pattern Searching
+9 - Group Anagrams
 
 ---
+
 ![upvotee.jpg](https://assets.leetcode.com/users/images/e9ab2638-b67e-4627-b3b2-9a9a22f0846e_1674113681.4102023.jpeg)
 
 ***Follow my progress and join the challenge on my*** **[GitHub](https://github.com/nandini-gangrade/DSA-Sheet) *and* [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7221580562367414272/)** 
@@ -56,7 +65,18 @@ Huge thanks to Arsh Goyal for creating this fantastic [resource](https://lnkd.in
 | | [28. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [LeetCode Solution](https://leetcode.com/problems/largest-rectangle-in-histogram/solutions/5540315/best-solution-challenge-day-3-revisewitharshttps://leetcode.com/problems/valid-parentheses/solutions/5540421/best-solution-challenge-day-3-revisewitharsh) | [GitHub Solution Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%203/Strings/28%20-%20Valid%20Parentheses.md)|
 | | [29 - Print all the duplicate characters in a string.md](https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/) | [GFG Blog](https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/) | [GitHub Solution Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%203/Arrays/19%20-%20Spiral%20Matrix.md)|
 | | [30 - Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/) | [LeetCode Solution](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/solutions/5540533/short-best-solution-challenge-day-3-revisewitharsh) | [GitHub Solution Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%203/Strings/30%20-%20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String.md)|
-
+|  |  |  |  |
+| **Day 4** | [31. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | [LeetCode Solution](https://leetcode.com/problems/longest-common-prefix/solutions/5544354/easy-solution-challenge-day-4-revisewitharsh) | [GitHub Solution Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%204/Strings/31.%20Longest%20Common%20Prefix.md)|
+| | [32. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/description/) | [LeetCode Solution](https://leetcode.com/problems/valid-palindrome-ii/solutions/5544401/easy-solution-challenge-day-4-revisewitharsh) | [GitHub Solution Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%204/Strings/33%20-%20Integer%20to%20Roman.md)|
+| | [33. Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) | [LeetCode Solution](https://leetcode.com/problems/integer-to-roman/solutions/5544454/easy-solution-challenge-day-4-revisewitharsh) | [GitHub Solution Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%204/Strings/32%20-%20Valid%20Palindrome%20II.md)|
+| | [34. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | [LeetCode Solution](https://leetcode.com/problems/generate-parentheses/solutions/5544515/easy-solution-challenge-day-4-revisewitharsh) | [GitHub Solution Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%204/Strings/34%20-%20Generate%20Parentheses.md)|
+| | [35. Simplify Path2](https://leetcode.com/problems/simplify-path/description/) | [LeetCode Solution](https://leetcode.com/problems/simplify-path/solutions/5544547/easy-solution-challenge-day-4-revisewitharsh) | [GitHub Solution Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%204/Strings/35%20-%20Simplify%20Path.md)|
+| | [36. Smallest window in a string containing all the characters of another string](https://www.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string-1587115621/1) | [GFG Solution](https://discuss.geeksforgeeks.org/comment/9e592e06-5122-4589-bb16-e724bd0a387b/practice) | [GitHub Solution Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%204/Strings/36%20-%20Smallest%20window%20in%20a%20string%20containing%20all%20the%20characters%20of%20another%20string.md)|
+| | [37. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) | [Leetcode Solution](https://leetcode.com/problems/reverse-words-in-a-string/solutions/5544710/easy-solution-challenge-day-4-revisewitharsh) | [GitHub Solution Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%204/Strings/37%20-%20Reverse%20Words%20in%20a%20String.md)|
+| | [38. Rabin-Karp Algorithm for Pattern Searching](https://www.geeksforgeeks.org/rabin-karp-algorithm-for-pattern-searching/) | [GFG Solution](https://www.geeksforgeeks.org/rabin-karp-algorithm-for-pattern-searching/) | [GitHub Solution Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%204/Strings/38%20-%20Rabin-Karp%20Algorithm%20for%20Pattern%20Searching.md)|
+| | [39. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | [Leetcode Solution](https://leetcode.com/problems/group-anagrams/solutions/5544809/easy-solution-challenge-day-4-revisewitharsh) | [GitHub Solution Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%204/Strings/39%20-%20Group%20Anagrams.md)|
+| | [40. Word Wrap](https://www.geeksforgeeks.org/problems/word-wrap1646/1) | [GFG Solution](https://discuss.geeksforgeeks.org/comment/ea64e30a-90f0-4a3b-a053-7c9419a86dde/practice) | [GitHub Solution Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%204/Strings/40%20-%20Word%20Wrap.md)|
+| | [41. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/description/) | [Leetcode Solution](https://leetcode.com/problems/basic-calculator-ii/solutions/5544990/easy-solution-challenge-day-4-revisewitharsh) | [GitHub Solution Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%204/Strings/41%20-%20Basic%20Calculator%20II.md)|
 
 ![image.png](https://assets.leetcode.com/users/images/dd42a649-e1d9-4b22-9eb8-add015c24468_1721761764.4795635.png)
 
