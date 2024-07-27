@@ -3,6 +3,128 @@
 Over the next 45 days, I’ll be working through a curated DSA sheet to sharpen my skills for upcoming interviews and assessments.
 Huge thanks to Arsh Goyal for creating this fantastic [resource](https://lnkd.in/d35yKrSW)! 🙌
 
+
+<!-- Easy Solution 🚀 | Challenge - Day 4 - #ReviseWithArsh 🙌
+`#CrackYourInternship #CrackYourPlacement Challenge - #ReviseWithArsh
+`
+
+> DAY 4
+1 - Longest Common Prefix
+2 - Valid Palindrome II
+3 - Integer to Roman
+4 - Generate Parentheses
+5 - Simplify Path
+6 - Smallest window in a string containing all the characters of another string
+7 - Reverse Words in a String.md
+8 - Rabin-Karp Algorithm for Pattern Searching
+9 - Group Anagrams
+10 - Word Wrap
+11 - Basic Calculator II
+11 - Valid number
+
+
+### Approach
+
+1. **Initialization**:
+   - **`need`**: A Counter to store the frequency of each character in `t`.
+   - **`window`**: A defaultdict to store the frequency of each character in the current window of `s`.
+   - **`have`**: A count of how many unique characters from `t` are currently in the window with the required frequency.
+   - **`required`**: The number of unique characters needed in the window, which is the size of the `need` Counter.
+   - **`res`**: A tuple to keep track of the minimum window length and its start and end indices.
+
+2. **Sliding Window**:
+   - Expand the window by moving the `right` pointer and update the `window` Counter.
+   - If the window contains all the required characters with the correct frequencies, try to shrink the window from the left using the `left` pointer.
+   - Keep track of the smallest valid window found.
+
+3. **Edge Cases**:
+   - If `t` is longer than `s`, immediately return an empty string because it's impossible to find such a window.
+
+### Code Implementation
+
+```python []
+from collections import Counter, defaultdict
+
+class Solution(object):
+    def minWindow(self, s, t):
+        """
+        :type s: str
+        :type t: str
+        :rtype: str
+        """
+        if not s or not t:
+            return ""
+
+        # Frequency count of characters in t
+        need = Counter(t)
+        window = defaultdict(int)
+        
+        # Number of unique characters that match the requirement
+        have = 0
+        required = len(need)
+        
+        # Result tuple (window length, left, right)
+        res = float('inf'), None, None
+        
+        left = 0
+        
+        # Expand the window with the right pointer
+        for right in range(len(s)):
+            char = s[right]
+            window[char] += 1
+            
+            # Check if the current character satisfies the requirement
+            if char in need and window[char] == need[char]:
+                have += 1
+            
+            # Shrink the window from the left as long as it's valid
+            while have == required:
+                # Update the result if the current window is smaller
+                if (right - left + 1) < res[0]:
+                    res = (right - left + 1, left, right)
+                
+                # Move the left pointer
+                window[s[left]] -= 1
+                if s[left] in need and window[s[left]] < need[s[left]]:
+                    have -= 1
+                left += 1
+        
+        # Return the smallest window found
+        return "" if res[0] == float('inf') else s[res[1]:res[2] + 1]
+```
+
+### Explanation
+
+- **Initialization**:
+  - **`need`**: Tracks the count of each character required.
+  - **`window`**: Keeps track of characters in the current window of `s`.
+  - **`have`**: Counts how many unique characters from `t` are met in the current window with required frequency.
+  - **`res`**: Stores the smallest valid window size and its position.
+
+- **Sliding Window Mechanism**:
+  - The right pointer (`right`) expands the window.
+  - When the window is valid (i.e., contains all required characters with the correct frequency), the left pointer (`left`) is used to contract the window to find the minimum size.
+  - The result is updated whenever a smaller valid window is found.
+
+### Complexity
+
+- **Time Complexity**: \(O(m + n)\)
+  - The two pointers (`left` and `right`) traverse the string `s` at most once, and operations with hashmaps are constant time on average.
+
+- **Space Complexity**: \(O(n)\)
+  - The hashmaps `need` and `window` store character frequencies where `n` is the length of string `t`.
+
+This approach is efficient and handles large inputs well within the given constraints.
+
+---
+
+![upvotee.jpg](https://assets.leetcode.com/users/images/e9ab2638-b67e-4627-b3b2-9a9a22f0846e_1674113681.4102023.jpeg)
+
+***Follow my progress and join the challenge on my*** **[GitHub](https://github.com/nandini-gangrade/DSA-Sheet) *and* [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7221580562367414272/)** 
+
+`Let's tackle these coding challenges together! 🚀`
+-->
+
 <!--
 
 `#CrackYourInternship #CrackYourPlacement Challenge - #ReviseWithArsh
@@ -81,7 +203,8 @@ Huge thanks to Arsh Goyal for creating this fantastic [resource](https://lnkd.in
 | | [40. Word Wrap](https://www.geeksforgeeks.org/problems/word-wrap1646/1) | [GFG Solution](https://discuss.geeksforgeeks.org/comment/ea64e30a-90f0-4a3b-a053-7c9419a86dde/practice) | [GitHub Solution Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%204/Strings/40%20-%20Word%20Wrap.md)|
 | | [41. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/description/) | [Leetcode Solution](https://leetcode.com/problems/basic-calculator-ii/solutions/5544990/easy-solution-challenge-day-4-revisewitharsh) | [GitHub Solution Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%204/Strings/41%20-%20Basic%20Calculator%20II.md)|
 | | [42. Valid Number](https://leetcode.com/problems/valid-number/description/) | [Leetcode Solution](https://leetcode.com/problems/valid-number/solutions/5545088/easy-solution-challenge-day-4-revisewitharsh) | [GitHub Solution Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%204/Strings/42%20-%20Valid%20Number.md)|
-| | [43. Integer to English Words](https://leetcode.com/problems/integer-to-english-words/description/) | [Leetcode Solution](https://leetcode.com/problems/integer-to-english-words/solutions/5545280/easy-solution-challenge-day-4-revisewitharsh) | [GitHub Solution Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%204/Strings/43%20-%20Integer%20to%20English%20Words.md)|
+| | [43. Integer to English Words](https://leetcode.com/problems/integer-to-english-words/description/) | [Leetcode Solution](https://leetcode.com/problems/integer-to-english-words/solutions/5545280/easy-solution-challenge-day-4-revisewitharsh) | [GitHub Solution Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%204/Strings/43%20-%20Integer%20to%20English%20Words.md)|Minimum Window Substring
+| | [44. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/) | [Leetcode Solution](https://leetcode.com/problems/integer-to-english-words/solutions/5545280/easy-solution-challenge-day-4-revisewitharsh) | [GitHub Solution Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%204/Strings/43%20-%20Integer%20to%20English%20Words.md)|
 
 ![image.png](https://assets.leetcode.com/users/images/dd42a649-e1d9-4b22-9eb8-add015c24468_1721761764.4795635.png)
 
