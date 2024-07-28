@@ -206,6 +206,14 @@ This approach is efficient and handles large inputs well within the given constr
 | | [43. Integer to English Words](https://leetcode.com/problems/integer-to-english-words/description/) | [Leetcode Solution](https://leetcode.com/problems/integer-to-english-words/solutions/5545280/easy-solution-challenge-day-4-revisewitharsh) | [GitHub Solution Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%204/Strings/43%20-%20Integer%20to%20English%20Words.md)|Minimum Window Substring
 | | [44. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/) | [Leetcode Solution](https://leetcode.com/problems/integer-to-english-words/solutions/5545280/easy-solution-challenge-day-4-revisewitharsh) | [GitHub Solution Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%204/Strings/43%20-%20Integer%20to%20English%20Words.md)|
 
+| Day   | Problem                                | GitHub Solution                                                                                              |
+|-------|----------------------------------------|----------------------------------------------------------------------------------------------|
+| **Day 5** | [45. Text Justification](https://leetcode.com/problems/text-justification/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%205/Strings/45%20-%20Text%20Justification.md) | 
+|  | [46. Boyer Moore Algorithm for Pattern Searching](https://www.geeksforgeeks.org/boyer-moore-algorithm-for-pattern-searching/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%205/Strings/46%20-%20Boyer%20Moore%20Algorithm%20for%20Pattern%20Searching.md)
+|  | [47. Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%205/Strings/47%20-%20Distinct%20Subsequences.md)
+|  | [48. Print Anagrams Together](https://www.geeksforgeeks.org/problems/print-anagrams-together/1) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%205/Strings/48%20-%20Print%20Anagrams%20Together.md)
+
+
 ![image.png](https://assets.leetcode.com/users/images/dd42a649-e1d9-4b22-9eb8-add015c24468_1721761764.4795635.png)
 
 ***Follow my progress and join the challenge on my*** **[GitHub](https://github.com/nandini-gangrade/DSA-Sheet), [Leetcode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/solutions/5524617/best-solution-challenge-day-1-revisewitharsh) *and* [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7221580562367414272/)** 
