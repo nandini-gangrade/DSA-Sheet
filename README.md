@@ -212,7 +212,8 @@ This approach is efficient and handles large inputs well within the given constr
 |  | [46. Boyer Moore Algorithm for Pattern Searching](https://www.geeksforgeeks.org/boyer-moore-algorithm-for-pattern-searching/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%205/Strings/46%20-%20Boyer%20Moore%20Algorithm%20for%20Pattern%20Searching.md)
 |  | [47. Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%205/Strings/47%20-%20Distinct%20Subsequences.md)
 |  | [48. Print Anagrams Together](https://www.geeksforgeeks.org/problems/print-anagrams-together/1) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%205/Strings/48%20-%20Print%20Anagrams%20Together.md)
-
+|  | [49. Maximum size rectangle binary sub-matrix with all 1s](https://www.geeksforgeeks.org/maximum-size-rectangle-binary-sub-matrix-1s/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%205/Strings/49%20-%20Maximum%20size%20rectangle%20binary%20sub-matrix%20with%20all%201s.md)
+|  | [50. Find the number of islands using DFS](https://www.geeksforgeeks.org/find-the-number-of-islands-using-dfs/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%205/Strings/50%20-%20Find%20the%20number%20of%20islands%20using%20DFS.md)
 
 ![image.png](https://assets.leetcode.com/users/images/dd42a649-e1d9-4b22-9eb8-add015c24468_1721761764.4795635.png)
 
