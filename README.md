@@ -130,19 +130,7 @@ This approach is efficient and handles large inputs well within the given constr
 `#CrackYourInternship #CrackYourPlacement Challenge - #ReviseWithArsh
 `
 
-> DAY 4
-1 - Longest Common Prefix
-2 - Valid Palindrome II
-3 - Integer to Roman
-4 - Generate Parentheses
-5 - Simplify Path
-6 - Smallest window in a string containing all the characters of another string
-7 - Reverse Words in a String.md
-8 - Rabin-Karp Algorithm for Pattern Searching
-9 - Group Anagrams
-10 - Word Wrap
-11 - Basic Calculator II
-11 - Valid number
+> DAY 5
 
 ---
 
@@ -214,6 +202,12 @@ This approach is efficient and handles large inputs well within the given constr
 |  | [48. Print Anagrams Together](https://www.geeksforgeeks.org/problems/print-anagrams-together/1) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%205/Strings/48%20-%20Print%20Anagrams%20Together.md)
 |  | [49. Maximum size rectangle binary sub-matrix with all 1s](https://www.geeksforgeeks.org/maximum-size-rectangle-binary-sub-matrix-1s/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%205/Strings/49%20-%20Maximum%20size%20rectangle%20binary%20sub-matrix%20with%20all%201s.md)
 |  | [50. Find the number of islands using DFS](https://www.geeksforgeeks.org/find-the-number-of-islands-using-dfs/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%205/Strings/50%20-%20Find%20the%20number%20of%20islands%20using%20DFS.md)
+|  | [51. Given a matrix of ‘O’ and ‘X’, replace ‘O’ with ‘X’ if surrounded by ‘X’](https://www.geeksforgeeks.org/given-matrix-o-x-replace-o-x-surrounded-x/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%205/Strings/51%20-%20Given%20a%20matrix%20of%20%E2%80%98O%E2%80%99%20and%20%E2%80%98X%E2%80%99%2C%20replace%20%E2%80%98O%E2%80%99%20with%20%E2%80%98X%E2%80%99%20if%20surrounded%20by%20%E2%80%98X%E2%80%99.md)
+|  | [52. Rotate Image](https://leetcode.com/problems/rotate-image/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%205/Strings/52-%20Rotate%20Image.md)
+|  | [53. Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%205/Strings/52-%20Rotate%20Image.md)
+|  | [54. Add Binary](https://leetcode.com/problems/add-binary/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%205/Strings/54%20-%20Add%20Binary.md)
+|  | [55. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%205/Strings/55%20-%20Maximum%20Product%20of%20Three%20Numbers.md)
+|  | [56. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%205/Strings/56%20-%20Excel%20Sheet%20Column%20Title.md)
 
 ![image.png](https://assets.leetcode.com/users/images/dd42a649-e1d9-4b22-9eb8-add015c24468_1721761764.4795635.png)
 
