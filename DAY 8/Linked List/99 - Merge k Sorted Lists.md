@@ -1,127 +1,95 @@
-# [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)
+# [25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)
 
+To reverse nodes in groups of `k` in a singly linked list, you can follow this approach:
 
-You are given an array of `k` linked lists, each sorted in ascending order. Merge all the linked lists into one sorted linked list and return it.
+### Approach
 
-### Example
+1. **Check the Length of the List**: Determine if there are at least `k` nodes left in the list to reverse. If not, return the list as is.
 
-**Example 1:**
+2. **Reverse Nodes in Groups**: Reverse nodes in groups of `k` and link the reversed segments together.
 
-**Input:**
-```plaintext
-lists = [[1,4,5],[1,3,4],[2,6]]
-```
+3. **Handle Remaining Nodes**: If there are fewer than `k` nodes left, they should remain as they are.
 
-**Output:**
-```plaintext
-[1,1,2,3,4,4,5,6]
-```
+### Solution Code
 
-**Explanation:**
-The linked lists are:
-```
-1->4->5
-1->3->4
-2->6
-```
-After merging them into one sorted list:
-```
-1->1->2->3->4->4->5->6
-```
-
-**Example 2:**
-
-**Input:**
-```plaintext
-lists = []
-```
-
-**Output:**
-```plaintext
-[]
-```
-
-**Example 3:**
-
-**Input:**
-```plaintext
-lists = [[]]
-```
-
-**Output:**
-```plaintext
-[]
-```
-
-### Constraints
-
-- \( k == \text{lists.length} \)
-- \( 0 \leq k \leq 10^4 \)
-- \( 0 \leq \text{lists[i].length} \leq 500 \)
-- \( -10^4 \leq \text{lists[i][j]} \leq 10^4 \)
-- `lists[i]` is sorted in ascending order.
-- The sum of `lists[i].length` will not exceed \( 10^4 \).
-
-### Solution
-
-To efficiently merge `k` sorted linked lists, you can use a min-heap (priority queue) approach which operates in \( O(n \log k) \) time complexity where \( n \) is the total number of nodes.
-
-## Code
+Here's a Python implementation of this approach:
 
 ```python
-import heapq
-
-# Definition for singly-linked list.
 class ListNode:
     def __init__(self, val=0, next=None):
         self.val = val
         self.next = next
 
 class Solution:
-    def mergeKLists(self, lists):
+    def reverseKGroup(self, head, k):
         """
-        :type lists: List[ListNode]
+        :type head: ListNode
+        :type k: int
         :rtype: ListNode
         """
-        # Define a comparator function for the heap to handle ListNode
-        class ListNodeComparator:
-            def __init__(self, node):
-                self.node = node
-            def __lt__(self, other):
-                return self.node.val < other.node.val
+        # Helper function to reverse a linked list
+        def reverseLinkedList(head, k):
+            prev = None
+            curr = head
+            while k > 0:
+                next_node = curr.next
+                curr.next = prev
+                prev = curr
+                curr = next_node
+                k -= 1
+            return prev
         
-        min_heap = []
-        # Push the initial nodes of all lists into the heap
-        for l in lists:
-            if l:
-                heapq.heappush(min_heap, ListNodeComparator(l))
+        # Helper function to get the length of the linked list
+        def getLength(head):
+            length = 0
+            while head:
+                length += 1
+                head = head.next
+            return length
         
-        dummy = ListNode()
-        current = dummy
+        # Calculate the length of the linked list
+        length = getLength(head)
         
-        while min_heap:
-            # Pop the smallest node from the heap
-            smallest_node = heapq.heappop(min_heap).node
-            current.next = smallest_node
-            current = current.next
+        # Create a dummy node to simplify the head management
+        dummy = ListNode(-1)
+        dummy.next = head
+        prev_end = dummy
+        
+        # Reverse nodes in groups of k
+        while length >= k:
+            # Find the start and end of the current group
+            group_start = prev_end.next
+            group_end = group_start
+            for _ in range(k - 1):
+                group_end = group_end.next
             
-            # If there's a next node, push it to the heap
-            if smallest_node.next:
-                heapq.heappush(min_heap, ListNodeComparator(smallest_node.next))
+            # Get the next group start
+            next_group_start = group_end.next
+            
+            # Reverse the current group
+            group_end.next = None
+            prev_end.next = reverseLinkedList(group_start, k)
+            group_start.next = next_group_start
+            
+            # Move prev_end to the end of the reversed group
+            prev_end = group_start
+            
+            # Decrement the length of the remaining nodes
+            length -= k
         
         return dummy.next
 ```
 
 ### Explanation
 
-1. **Min-Heap Initialization**:
-   - A min-heap (priority queue) is used to efficiently retrieve the smallest element from the heads of the linked lists.
+1. **`reverseLinkedList` Function**: This function reverses `k` nodes starting from a given head node. It returns the new head of the reversed segment.
 
-2. **Heap Operations**:
-   - We push the head nodes of all linked lists into the heap. The custom `ListNodeComparator` class ensures that nodes are compared based on their values.
-   - Extract the smallest node from the heap, append it to the result list, and push the next node from the same list into the heap if available.
+2. **`getLength` Function**: This function calculates the total length of the linked list.
 
-3. **Time Complexity**:
-   - The time complexity is \( O(n \log k) \), where \( n \) is the total number of nodes in all lists, and \( k \) is the number of linked lists. This is because each node is pushed and popped from the heap at most once, and the heap operations take \( \log k \) time.
+3. **Main Logic**:
+   - Calculate the total length of the list to determine how many complete groups of `k` nodes can be reversed.
+   - Use a dummy node to handle edge cases where the head of the list might change.
+   - Iterate through the list, reversing nodes in groups of `k` and linking them together.
+   - If fewer than `k` nodes are left at the end, they remain unchanged.
 
-This approach ensures that the merging of `k` sorted linked lists is done efficiently.
+This approach maintains a time complexity of O(n) and uses O(1) extra space, satisfying the problem's constraints.
