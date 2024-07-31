@@ -245,6 +245,15 @@ This approach is efficient and handles large inputs well within the given constr
 |  | [91 - Partition List](https://leetcode.com/problems/partition-list/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%207/Linked%20List/91%20-%20Partition%20List.md)
 |  | [92 - Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%207/Linked%20List/92%20-%20Remove%20Duplicates%20from%20Sorted%20List%20II.md)
 |  | [93 - Rearrange a Linked List in Zig-Zag fashion](https://www.geeksforgeeks.org/linked-list-in-zig-zag-fashion/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%207/Linked%20List/93%20-%20Rearrange%20a%20Linked%20List%20in%20Zig-Zag%20fashion.md)
+| **Day 8** | [94 - Rearrange a Linked List in Zig-Zag fashion](https://www.geeksforgeeks.org/linked-list-in-zig-zag-fashion/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%208/Linked%20List/94%20-%20Rearrange%20a%20Linked%20List%20in%20Zig-Zag%20fashion.md) | 
+|  | [95 - Sort List](https://leetcode.com/problems/sort-list/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%208/Linked%20List/95%20-%20Sort%20List.md)
+|  | [96 - Segregate even and odd nodes in a Linked List](https://leetcode.com/problems/linked-list-cycle/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%208/Linked%20List/96%20-%20Segregate%20even%20and%20odd%20nodes%20in%20a%20Linked%20List.md)
+|  | [97 - Rearrange a given linked list in-place](https://www.geeksforgeeks.org/rearrange-a-given-linked-list-in-place/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%208/Linked%20List/97%20-%20Rearrange%20a%20given%20linked%20list%20in-place.md)
+|  | [98 - Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%208/Linked%20List/98%20-%20Merge%20k%20Sorted%20Lists.md)
+|  | [99 - Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%208/Linked%20List/99%20-%20Reverse%20Nodes%20in%20k-Group.md)
+|  | [100 - Subtraction in Linked List](https://www.geeksforgeeks.org/problems/subtraction-in-linked-list/1) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%208/Linked%20List/100%20-%20Subtraction%20in%20Linked%20List.md)
+|  | [101 - Flattening a Linked List](https://www.geeksforgeeks.org/problems/flattening-a-linked-list/1) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%208/Linked%20List/101%20-%20Flattening%20a%20Linked%20List.md)
+
 
 ![image.png](https://assets.leetcode.com/users/images/dd42a649-e1d9-4b22-9eb8-add015c24468_1721761764.4795635.png)
 
