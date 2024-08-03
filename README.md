@@ -274,6 +274,13 @@ This approach is efficient and handles large inputs well within the given constr
 |  | [120 - The Celebrity Problem](https://www.geeksforgeeks.org/problems/the-celebrity-problem/1) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2010/Stacks%20and%20Queues/116%20-%20Remove%20All%20Adjacent%20Duplicates%20in%20String%20II.md)
 |  | [121 - Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2010/Stacks%20and%20Queues/119%20-%20LRU%20Cache.md)
 |  | [122 - Maximum Number of Visible Points](https://leetcode.com/problems/maximum-number-of-visible-points/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2010/Two%20Pointers%20and%20Sliding%20Window/122%20-%20Maximum%20Number%20of%20Visible%20Points.md)
+| **Day 11** | [123 - Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2011/Tree/123%20-%20Diameter%20of%20Binary%20Tree.md) | 
+|  | [124 - Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2011/Tree/124%20-%20Invert%20Binary%20Tree.md)
+|  | [125 - Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2011/Tree/125%20-%20Subtree%20of%20Another%20Tree.md)
+|  | [126 - Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2010/Stacks%20and%20Queues/116%20-%20Remove%20All%20Adjacent%20Duplicates%20in%20String%20II.md)
+|  | [127 - Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2011/Tree/127%20-%20Symmetric%20Tree.md)
+|  | [128 - Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2011/Tree/128%20-%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.md)
+|  | [129 - Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2011/Tree/129%20-%20Merge%20Two%20Binary%20Trees.md)
 
 ![image.png](https://assets.leetcode.com/users/images/dd42a649-e1d9-4b22-9eb8-add015c24468_1721761764.4795635.png)
 
