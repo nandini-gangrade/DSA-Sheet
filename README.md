@@ -281,6 +281,13 @@ This approach is efficient and handles large inputs well within the given constr
 |  | [127 - Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2011/Tree/127%20-%20Symmetric%20Tree.md)
 |  | [128 - Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2011/Tree/128%20-%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.md)
 |  | [129 - Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2011/Tree/129%20-%20Merge%20Two%20Binary%20Trees.md)
+| **Day 12** | [130 - Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2012/Tree/130%20-%20Maximum%20Depth%20of%20Binary%20Tree.md) | 
+|  | [131 - Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2012/Tree/131%20-%20Binary%20Tree%20Paths.md)
+|  | [132 - Same Tree](https://leetcode.com/problems/same-tree/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2012/Tree/132%20-%20Same%20Tree.md)
+|  | [133 -  Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2012/Tree/133%20-%20%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.md)
+|  | [134 - Path Sum](https://leetcode.com/problems/path-sum/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2012/Tree/134%20-%20Path%20Sum.md)
+|  | [135 - Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2012/Tree/%23%20135%20-%20Minimum%20Absolute%20Difference%20in%20BST.md)
+|  | [136 - Sum of Left Leaves](https://leetcode.com/problems/merge-two-binary-trees/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2011/Tree/129%20-%20Merge%20Two%20Binary%20Trees.md)
 
 ![image.png](https://assets.leetcode.com/users/images/dd42a649-e1d9-4b22-9eb8-add015c24468_1721761764.4795635.png)
 
