@@ -288,6 +288,9 @@ This approach is efficient and handles large inputs well within the given constr
 |  | [134 - Path Sum](https://leetcode.com/problems/path-sum/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2012/Tree/134%20-%20Path%20Sum.md)
 |  | [135 - Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2012/Tree/%23%20135%20-%20Minimum%20Absolute%20Difference%20in%20BST.md)
 |  | [136 - Sum of Left Leaves](https://leetcode.com/problems/merge-two-binary-trees/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2011/Tree/129%20-%20Merge%20Two%20Binary%20Trees.md)
+| **Day 13** | [137 - Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2013/Tree/137%20-%20Balanced%20Binary%20Tree.md) | 
+|  | [138 - Predecessor and Successor](https://www.geeksforgeeks.org/problems/predecessor-and-successor/1) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2012/Tree/131%20-%20Binary%20Tree%20Paths.md)
+|  | [139 - Binary Tree Inorder Traversal](https://www.geeksforgeeks.org/problems/predecessor-and-successor/1) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2013/Tree/139%20-%20Binary%20Tree%20Inorder%20Traversal.md)
 
 ![image.png](https://assets.leetcode.com/users/images/dd42a649-e1d9-4b22-9eb8-add015c24468_1721761764.4795635.png)
 
