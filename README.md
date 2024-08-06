@@ -208,6 +208,7 @@ This approach is efficient and handles large inputs well within the given constr
 |  | [54. Add Binary](https://leetcode.com/problems/add-binary/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%205/Strings/54%20-%20Add%20Binary.md)
 |  | [55. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%205/Strings/55%20-%20Maximum%20Product%20of%20Three%20Numbers.md)
 |  | [56. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%205/Strings/56%20-%20Excel%20Sheet%20Column%20Title.md)
+| | | |
 | **Day 6** | [57. Product array puzzle](https://www.geeksforgeeks.org/problems/product-array-puzzle4525/1) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%206/Mathematical/57%20-%20Product%20array%20puzzle.md) | 
 |  | [58. Permute two arrays such that sum of every pair is greater or equal to K](https://www.geeksforgeeks.org/permute-two-arrays-sum-every-pair-greater-equal-k/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%206/Sorting%20%26%20Searching/58%20-%20Permute%20two%20arrays%20such%20that%20sum%20of%20every%20pair%20is%20greater%20or%20equal%20to%20K.md)
 |  | [59. Ceiling in a sorted array](https://www.geeksforgeeks.org/ceiling-in-a-sorted-array/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%206/Sorting%20%26%20Searching/59%20-%20Ceiling%20in%20a%20sorted%20array.md)
@@ -223,6 +224,7 @@ This approach is efficient and handles large inputs well within the given constr
 |  | [69 - Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%206/Sorting%20%26%20Searching/69%20-%20Count%20of%20Smaller%20Numbers%20After%20Self.md)
 |  | [70 - Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%206/Sorting%20%26%20Searching/70%20-%20Split%20Array%20Largest%20Sum.md)
 |  | [71 - Smallest Positive Missing](https://www.geeksforgeeks.org/problems/smallest-positive-missing-number-1587115621/1) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%206/Sorting%20%26%20Searching/71%20-%20Smallest%20Positive%20Missing.md)
+| | | |
 | **Day 7** | [72 - Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%207/Linked%20List/72%20-%20Middle%20of%20the%20Linked%20List.md) | 
 |  | [73 - Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%207/Linked%20List/73%20-%20Linked%20List%20Cycle.md)
 |  | [74 - Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%207/Linked%20List/74%20-%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.md)
@@ -245,6 +247,7 @@ This approach is efficient and handles large inputs well within the given constr
 |  | [91 - Partition List](https://leetcode.com/problems/partition-list/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%207/Linked%20List/91%20-%20Partition%20List.md)
 |  | [92 - Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%207/Linked%20List/92%20-%20Remove%20Duplicates%20from%20Sorted%20List%20II.md)
 |  | [93 - Rearrange a Linked List in Zig-Zag fashion](https://www.geeksforgeeks.org/linked-list-in-zig-zag-fashion/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%207/Linked%20List/93%20-%20Rearrange%20a%20Linked%20List%20in%20Zig-Zag%20fashion.md)
+| | | |
 | **Day 8** | [94 - Rearrange a Linked List in Zig-Zag fashion](https://www.geeksforgeeks.org/linked-list-in-zig-zag-fashion/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%208/Linked%20List/94%20-%20Rearrange%20a%20Linked%20List%20in%20Zig-Zag%20fashion.md) | 
 |  | [95 - Sort List](https://leetcode.com/problems/sort-list/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%208/Linked%20List/95%20-%20Sort%20List.md)
 |  | [96 - Segregate even and odd nodes in a Linked List](https://leetcode.com/problems/linked-list-cycle/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%208/Linked%20List/96%20-%20Segregate%20even%20and%20odd%20nodes%20in%20a%20Linked%20List.md)
@@ -253,6 +256,7 @@ This approach is efficient and handles large inputs well within the given constr
 |  | [99 - Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%208/Linked%20List/99%20-%20Reverse%20Nodes%20in%20k-Group.md)
 |  | [100 - Subtraction in Linked List](https://www.geeksforgeeks.org/problems/subtraction-in-linked-list/1) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%208/Linked%20List/100%20-%20Subtraction%20in%20Linked%20List.md)
 |  | [101 - Flattening a Linked List](https://www.geeksforgeeks.org/problems/flattening-a-linked-list/1) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%208/Linked%20List/101%20-%20Flattening%20a%20Linked%20List.md)
+| | | |
 | **Day 9** | [102 - Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%209/Stacks%20and%20Queues/102%20-%20Implement%20Queue%20using%20Stacks.md) | 
 |  | [103 - Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%209/Stacks%20and%20Queues/103%20-%20Backspace%20String%20Compare.md)
 |  | [104 - Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%209/Stacks%20and%20Queues/104%20-%20Implement%20Stack%20using%20Queues.md)
@@ -266,6 +270,7 @@ This approach is efficient and handles large inputs well within the given constr
 |  | [112 - Rotten Oranges](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%209/Stacks%20and%20Queues/112%20-%20Rotten%20Oranges.md) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%209/Stacks%20and%20Queues/112%20-%20Rotten%20Oranges.md)
 |  | [113 - Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%209/Stacks%20and%20Queues/113%20-%20Sum%20of%20Subarray%20Minimums.md)
 |  | [114 - Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%209/Stacks%20and%20Queues/114%20-%20Evaluate%20Reverse%20Polish%20Notation.md)
+| | | |
 | **Day 10** | [115 - Circular tour](https://www.geeksforgeeks.org/problems/circular-tour-1587115620/1) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2010/Stacks%20and%20Queues/115%20-%20Circular%20tour.md) | 
 |  | [116 - Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2010/Stacks%20and%20Queues/116%20-%20Remove%20All%20Adjacent%20Duplicates%20in%20String%20II.md)
 |  | [117 - Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2010/Stacks%20and%20Queues/117%20-%20Flatten%20Nested%20List%20Iterator.md)
@@ -274,6 +279,7 @@ This approach is efficient and handles large inputs well within the given constr
 |  | [120 - The Celebrity Problem](https://www.geeksforgeeks.org/problems/the-celebrity-problem/1) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2010/Stacks%20and%20Queues/116%20-%20Remove%20All%20Adjacent%20Duplicates%20in%20String%20II.md)
 |  | [121 - Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2010/Stacks%20and%20Queues/119%20-%20LRU%20Cache.md)
 |  | [122 - Maximum Number of Visible Points](https://leetcode.com/problems/maximum-number-of-visible-points/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2010/Two%20Pointers%20and%20Sliding%20Window/122%20-%20Maximum%20Number%20of%20Visible%20Points.md)
+| | | |
 | **Day 11** | [123 - Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2011/Tree/123%20-%20Diameter%20of%20Binary%20Tree.md) | 
 |  | [124 - Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2011/Tree/124%20-%20Invert%20Binary%20Tree.md)
 |  | [125 - Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2011/Tree/125%20-%20Subtree%20of%20Another%20Tree.md)
@@ -281,6 +287,7 @@ This approach is efficient and handles large inputs well within the given constr
 |  | [127 - Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2011/Tree/127%20-%20Symmetric%20Tree.md)
 |  | [128 - Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2011/Tree/128%20-%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.md)
 |  | [129 - Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2011/Tree/129%20-%20Merge%20Two%20Binary%20Trees.md)
+| | | |
 | **Day 12** | [130 - Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2012/Tree/130%20-%20Maximum%20Depth%20of%20Binary%20Tree.md) | 
 |  | [131 - Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2012/Tree/131%20-%20Binary%20Tree%20Paths.md)
 |  | [132 - Same Tree](https://leetcode.com/problems/same-tree/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2012/Tree/132%20-%20Same%20Tree.md)
@@ -288,9 +295,22 @@ This approach is efficient and handles large inputs well within the given constr
 |  | [134 - Path Sum](https://leetcode.com/problems/path-sum/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2012/Tree/134%20-%20Path%20Sum.md)
 |  | [135 - Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2012/Tree/%23%20135%20-%20Minimum%20Absolute%20Difference%20in%20BST.md)
 |  | [136 - Sum of Left Leaves](https://leetcode.com/problems/merge-two-binary-trees/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2011/Tree/129%20-%20Merge%20Two%20Binary%20Trees.md)
+| | | |
 | **Day 13** | [137 - Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2013/Tree/137%20-%20Balanced%20Binary%20Tree.md) | 
 |  | [138 - Predecessor and Successor](https://www.geeksforgeeks.org/problems/predecessor-and-successor/1) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2012/Tree/131%20-%20Binary%20Tree%20Paths.md)
 |  | [139 - Binary Tree Inorder Traversal](https://www.geeksforgeeks.org/problems/predecessor-and-successor/1) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2013/Tree/139%20-%20Binary%20Tree%20Inorder%20Traversal.md)
+| | | |
+| **Day 13** | [140 - Check whether BST contains Dead End](https://www.geeksforgeeks.org/problems/check-whether-bst-contains-dead-end/1) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2014/Tree/140%20-%20Check%20whether%20BST%20contains%20Dead%20End.md) | 
+|  | [141 - Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2014/Tree/141%20-%20Binary%20Search%20Tree%20Iterator.md)
+|  | [142 - Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2014/Tree/142%20-%20Unique%20Binary%20Search%20Trees%20II.md)
+|  | [143 - All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2014/Tree/143%20-%20All%20Nodes%20Distance%20K%20in%20Binary%20Tree.md)
+|  | [144 - Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2014/Tree/144%20-%20Validate%20Binary%20Search%20Tree.md)
+|  | [145 - Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2014/Tree/145%20-%20Binary%20Tree%20Right%20Side%20View.md)
+|  | [146 - Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2014/Tree/146%20-%20Binary%20Tree%20Level%20Order%20Traversal.md)
+|  | [147 - Path Sum III](https://leetcode.com/problems/path-sum-iii/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2014/Tree/147%20-%20Path%20Sum%20III.md)
+|  | [148 - Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2014/Tree/148%20-%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Postorder%20Traversal.md)
+|  | [149 - Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2014/Tree/149%20-%20Unique%20Binary%20Search%20Trees.md)
+|  | [150 - Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2014/Tree/150%20-%20Recover%20Binary%20Search%20Tree.md)
 
 ![image.png](https://assets.leetcode.com/users/images/dd42a649-e1d9-4b22-9eb8-add015c24468_1721761764.4795635.png)
 
