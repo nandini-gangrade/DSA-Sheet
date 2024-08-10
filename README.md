@@ -332,7 +332,7 @@ This approach is efficient and handles large inputs well within the given constr
 |  | [167 - Largest BST](https://www.geeksforgeeks.org/problems/largest-bst/1) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2016/Tree/167%20-%20Largest%20BST.md)
 |  | [168 - Construct Tree from Preorder Traversal](https://www.geeksforgeeks.org/problems/construct-tree-from-preorder-traversal/1) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2016/Tree/168%20-%20Construct%20Tree%20from%20Preorder%20Traversal.md)
 | | | |
-| **Day 16** | [169 - BFS of graph](https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2017/Graph/169%20-%20BFS%20of%20graph.md) | 
+| **Day 17** | [169 - BFS of graph](https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2017/Graph/169%20-%20BFS%20of%20graph.md) | 
 |  | [170 - DFS of Graph](https://www.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2017/Graph/170%20-%20DFS%20of%20Graph.md)
 |  | [171 - Number of Islands](https://leetcode.com/problems/number-of-islands/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2017/Graph/171%20-%20Number%20of%20Islands.md)
 |  | [172 - Flood Fill](https://leetcode.com/problems/flood-fill/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2017/Graph/172%20-%20Flood%20Fill.md)
@@ -354,6 +354,28 @@ This approach is efficient and handles large inputs well within the given constr
 |  | [188 - Minimum Spanning Tree](https://www.geeksforgeeks.org/problems/minimum-spanning-tree/1) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2017/Graph/188%20-%20Minimum%20Spanning%20Tree.md)
 |  | [189 - Floyd Warshall](https://www.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2017/Graph/189%20-%20Floyd%20Warshall.md)
 |  | [190 - Evaluate Division](https://leetcode.com/problems/evaluate-division/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2017/Graph/190%20-%20Evaluate%20Division.md)
+| | | |
+| **Day 18** | [191 - Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2018/191%20-%20Snakes%20and%20Ladders.md) | 
+|  | [192 - Topological sort](https://www.geeksforgeeks.org/problems/topological-sort/1) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2018/192%20-%20Topological%20sort.md)
+|  | [193 - Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2017/Graph/171%20-%20Number%20of%20Islands.md)
+|  | [194 - Detect a negative cycle in a Graph - Bellman Ford](https://www.geeksforgeeks.org/detect-negative-cycle-graph-bellman-ford/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2018/194%20-%20Detect%20a%20negative%20cycle%20in%20a%20Graph%20%7C%20(Bellman%20Ford).md)
+|  | [195 - Bipartite Graph](https://www.geeksforgeeks.org/problems/bipartite-graph/1) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2018/195%20-%20Bipartite%20Graph.md)
+|  | [196 - Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2018/196%20-%20Longest%20Increasing%20Path%20in%20a%20Matrix.md)
+|  | [197. Making A Large Island](https://leetcode.com/problems/making-a-large-island/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2018/197%20-%20Making%20A%20Large%20Island.md)
+|  | [198 - Remove Boxes](https://leetcode.com/problems/remove-boxes/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2018/198%20-%20Remove%20Boxes.md)
+|  | [199 - Alien Dictionary](https://www.geeksforgeeks.org/problems/alien-dictionary/1) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2018/199%20-%20Alien%20Dictionary.md)
+|  | [200 - Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2018/200%20-%20Critical%20Connections%20in%20a%20Network.md)
+|  | [201 - Water Jug problem using BFS](https://www.geeksforgeeks.org/water-jug-problem-using-bfs/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2018/201%20-%20Water%20Jug%20problem%20using%20BFS.md)
+|  | [202 - Travelling Salesman Problem using Dynamic Programming](https://www.geeksforgeeks.org/travelling-salesman-problem-using-dynamic-programming/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2018/202%20-%20Travelling%20Salesman%20Problem%20using%20Dynamic%20Programming.md)
+|  | [203 - Total number of Spanning Trees in a Graph](https://www.geeksforgeeks.org/total-number-spanning-trees-graph/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2018/203%20-%20Total%20number%20of%20Spanning%20Trees%20in%20a%20Graph.md)
+|  | [204 - Word Ladder](https://leetcode.com/problems/word-ladder/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2018/204%20-%20Word%20Ladder.md)
+|  | [205 - Minimize Cash Flow among a given set of friends who have borrowed money from each other](https://www.geeksforgeeks.org/minimize-cash-flow-among-given-set-friends-borrowed-money/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2018/205%20-%20Minimize%20Cash%20Flow%20among%20a%20given%20set%20of%20friends%20who%20have%20borrowed%20money%20from%20each%20other.md)
+|  | [206 - Redundant Connection](https://leetcode.com/problems/redundant-connection/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2018/206%20-%20Redundant%20Connection.md)
+|  | [207 - Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2018/Trie/207%20-%20Design%20Add%20and%20Search%20Words%20Data%20Structure.md)
+|  | [208 - Word Break (Trie)](https://www.geeksforgeeks.org/problems/word-break-trie--141631/1) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2018/Trie/208%20-%20Word%20Break%20(Trie).md)
+|  | [209 - Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2018/Trie/209%20-%20Implement%20Trie%20(Prefix%20Tree).md)
+|  | [210 - Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2018/Trie/210%20-%20Palindrome%20Pairs.md)
+|  | [211 - Phone directory](https://www.geeksforgeeks.org/problems/phone-directory4628/1) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2018/Trie/211%20-%20Phone%20directory.md)
 
 ![image.png](https://assets.leetcode.com/users/images/dd42a649-e1d9-4b22-9eb8-add015c24468_1721761764.4795635.png)
 
