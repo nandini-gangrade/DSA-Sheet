@@ -389,6 +389,15 @@ This approach is efficient and handles large inputs well within the given constr
 |  | [222 - Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2019/Heap(Priority%20Queue)/222%20-%20Minimum%20Cost%20to%20Hire%20K%20Workers.md)
 |  | [223 - Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2019/Heap(Priority%20Queue)/223%20-%20Swim%20in%20Rising%20Water.md)
 |  | [224 - Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2019/Heap(Priority%20Queue)/224%20-%20Sliding%20Window%20Maximum.md)
+| | | |
+| **Day 20** | [225 - Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2020/Dynamic%20Programming/225%20-%20Climbing%20Stairs.md) | 
+|  | [226 - Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2020/Dynamic%20Programming/226%20-%20Maximum%20Product%20Subarray.md)
+|  | [227 - Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2020/Dynamic%20Programming/227%20-%20Ones%20and%20Zeroes.md)
+|  | [228 - Counting Bits](https://leetcode.com/problems/counting-bits/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2020/Dynamic%20Programming/228%20-%20Counting%20Bits.md)
+|  | [229 - Knight Dialer](https://leetcode.com/problems/knight-dialer/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2020/Dynamic%20Programming/229%20-%20Knight%20Dialer.md)
+|  | [230 - Maximize The Cut Segments](https://www.geeksforgeeks.org/problems/cutted-segments1642/1) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2020/Dynamic%20Programming/230%20-%20Maximize%20The%20Cut%20Segments.md)
+|  | [231 - Unique Paths](https://leetcode.com/problems/unique-paths/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2020/Dynamic%20Programming/231%20-%20Unique%20Paths.md)
+|  | [232 - Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2020/Dynamic%20Programming/232%20-%20Minimum%20Path%20Sum.md)
 
 ![image.png](https://assets.leetcode.com/users/images/dd42a649-e1d9-4b22-9eb8-add015c24468_1721761764.4795635.png)
 
