@@ -398,6 +398,12 @@ This approach is efficient and handles large inputs well within the given constr
 |  | [230 - Maximize The Cut Segments](https://www.geeksforgeeks.org/problems/cutted-segments1642/1) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2020/Dynamic%20Programming/230%20-%20Maximize%20The%20Cut%20Segments.md)
 |  | [231 - Unique Paths](https://leetcode.com/problems/unique-paths/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2020/Dynamic%20Programming/231%20-%20Unique%20Paths.md)
 |  | [232 - Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2020/Dynamic%20Programming/232%20-%20Minimum%20Path%20Sum.md)
+| | | | 
+| **Day 23** | [246 - Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2023/DP/246%20-%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV.md) | 
+|  | [247 - Minimum Insertion Steps to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2023/DP/247%20-%20Minimum%20Insertion%20Steps%20to%20Make%20a%20String%20Palindrome.md)
+|  | [248 - Largest area rectangular sub-matrix with equal number of 1’s and 0’s](https://www.geeksforgeeks.org/largest-area-rectangular-sub-matrix-equal-number-1s-0s/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2023/DP/248%20-%20Largest%20area%20rectangular%20sub-matrix%20with%20equal%20number%20of%201%E2%80%99s%20and%200%E2%80%99s.md)
+|  | [249 - Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2023/DP/249%20-%20Trapping%20Rain%20Water.md)
+|  | [250 - Minimum Cost to Merge Stones](https://leetcode.com/problems/minimum-cost-to-merge-stones/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2023/DP/250%20-%20Minimum%20Cost%20to%20Merge%20Stones.md)
 
 ![image.png](https://assets.leetcode.com/users/images/dd42a649-e1d9-4b22-9eb8-add015c24468_1721761764.4795635.png)
 
