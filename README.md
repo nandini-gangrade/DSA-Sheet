@@ -403,7 +403,9 @@ This approach is efficient and handles large inputs well within the given constr
 |  | [247 - Minimum Insertion Steps to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2023/DP/247%20-%20Minimum%20Insertion%20Steps%20to%20Make%20a%20String%20Palindrome.md)
 |  | [248 - Largest area rectangular sub-matrix with equal number of 1’s and 0’s](https://www.geeksforgeeks.org/largest-area-rectangular-sub-matrix-equal-number-1s-0s/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2023/DP/248%20-%20Largest%20area%20rectangular%20sub-matrix%20with%20equal%20number%20of%201%E2%80%99s%20and%200%E2%80%99s.md)
 |  | [249 - Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2023/DP/249%20-%20Trapping%20Rain%20Water.md)
-|  | [250 - Minimum Cost to Merge Stones](https://leetcode.com/problems/minimum-cost-to-merge-stones/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2023/DP/250%20-%20Minimum%20Cost%20to%20Merge%20Stones.md)
+|  | [250 - Minimum Cost to Merge Stones](https://leetcode.com/problems/minimum-cost-to-merge-stones/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2023/DP/250%20-%20Minimum%20Cost%20to%20Merge%20Stones.md) 
+|  | [251 - Count Different Palindromic Subsequences](https://leetcode.com/problems/count-different-palindromic-subsequences/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2023/DP/251%20-%20Count%20Different%20Palindromic%20Subsequences.md)
+|  | [252 - Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2023/DP/252%20-%20Maximal%20Rectangle.md)
 
 ![image.png](https://assets.leetcode.com/users/images/dd42a649-e1d9-4b22-9eb8-add015c24468_1721761764.4795635.png)
 
