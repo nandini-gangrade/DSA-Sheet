@@ -406,6 +406,13 @@ This approach is efficient and handles large inputs well within the given constr
 |  | [250 - Minimum Cost to Merge Stones](https://leetcode.com/problems/minimum-cost-to-merge-stones/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2023/DP/250%20-%20Minimum%20Cost%20to%20Merge%20Stones.md) 
 |  | [251 - Count Different Palindromic Subsequences](https://leetcode.com/problems/count-different-palindromic-subsequences/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2023/DP/251%20-%20Count%20Different%20Palindromic%20Subsequences.md)
 |  | [252 - Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2023/DP/252%20-%20Maximal%20Rectangle.md)
+| | | | 
+| **Day 24** | [253 - Burst Balloons](https://leetcode.com/problems/burst-balloons/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2024/DP/253%20-%20Burst%20Balloons.md) | 
+|  | [254 - Super Egg Drop](https://leetcode.com/problems/super-egg-drop/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2024/DP/254%20-%20Super%20Egg%20Drop.md)
+|  | [255 - Partition Equal Subset Sum](https://www.geeksforgeeks.org/problems/subset-sum-problem2014/1) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2024/DP/255%20-%20Partition%20Equal%20Subset%20Sum.md)
+|  | [256 - Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2024/Segment%20Tree/256%20-%20Range%20Sum%20Query%20-%20Immutable.md)
+|  | [257 - Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2024/DP/255%20-%20Partition%20Equal%20Subset%20Sum.md)
+|  | [258 - Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2024/Segment%20Tree/258%20-%20Count%20of%20Range%20Sum.md)
 
 ![image.png](https://assets.leetcode.com/users/images/dd42a649-e1d9-4b22-9eb8-add015c24468_1721761764.4795635.png)
 
