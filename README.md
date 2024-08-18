@@ -413,6 +413,12 @@ This approach is efficient and handles large inputs well within the given constr
 |  | [256 - Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2024/Segment%20Tree/256%20-%20Range%20Sum%20Query%20-%20Immutable.md)
 |  | [257 - Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2024/DP/255%20-%20Partition%20Equal%20Subset%20Sum.md)
 |  | [258 - Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2024/Segment%20Tree/258%20-%20Count%20of%20Range%20Sum.md)
+| | | | 
+| **Day 25** | [259 - CHOCOLA - Chocolate](https://www.spoj.com/problems/CHOCOLA/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2025/Greedy/259%20-%20CHOCOLA%20-%20Chocolate.md) | 
+|  | [260 - Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2025/Greedy/260%20-%20Non-overlapping%20Intervals.md)
+|  | [261 - Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2025/Greedy/261%20-%20Minimum%20Time%20to%20Make%20Rope%20Colorful.md)
+|  | [262 - Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2025/Backtracking/262%20-%20Combination%20Sum%20II.md)
+|  | [263 - Combinations](https://leetcode.com/problems/combinations/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2025/Backtracking/263%20-%20Combinations.md)
 
 ![image.png](https://assets.leetcode.com/users/images/dd42a649-e1d9-4b22-9eb8-add015c24468_1721761764.4795635.png)
 
