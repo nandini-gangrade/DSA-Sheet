@@ -399,7 +399,7 @@ This approach is efficient and handles large inputs well within the given constr
 |  | [231 - Unique Paths](https://leetcode.com/problems/unique-paths/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2020/Dynamic%20Programming/231%20-%20Unique%20Paths.md)
 |  | [232 - Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2020/Dynamic%20Programming/232%20-%20Minimum%20Path%20Sum.md)
 | | | | 
-| **Day 23** | [246 - Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2023/DP/246%20-%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV.md) | 
+| **Day 24** | [246 - Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2023/DP/246%20-%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV.md) | 
 |  | [247 - Minimum Insertion Steps to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2023/DP/247%20-%20Minimum%20Insertion%20Steps%20to%20Make%20a%20String%20Palindrome.md)
 |  | [248 - Largest area rectangular sub-matrix with equal number of 1’s and 0’s](https://www.geeksforgeeks.org/largest-area-rectangular-sub-matrix-equal-number-1s-0s/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2023/DP/248%20-%20Largest%20area%20rectangular%20sub-matrix%20with%20equal%20number%20of%201%E2%80%99s%20and%200%E2%80%99s.md)
 |  | [249 - Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2023/DP/249%20-%20Trapping%20Rain%20Water.md)
@@ -407,18 +407,23 @@ This approach is efficient and handles large inputs well within the given constr
 |  | [251 - Count Different Palindromic Subsequences](https://leetcode.com/problems/count-different-palindromic-subsequences/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2023/DP/251%20-%20Count%20Different%20Palindromic%20Subsequences.md)
 |  | [252 - Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2023/DP/252%20-%20Maximal%20Rectangle.md)
 | | | | 
-| **Day 24** | [253 - Burst Balloons](https://leetcode.com/problems/burst-balloons/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2024/DP/253%20-%20Burst%20Balloons.md) | 
+| **Day 25** | [253 - Burst Balloons](https://leetcode.com/problems/burst-balloons/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2024/DP/253%20-%20Burst%20Balloons.md) | 
 |  | [254 - Super Egg Drop](https://leetcode.com/problems/super-egg-drop/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2024/DP/254%20-%20Super%20Egg%20Drop.md)
 |  | [255 - Partition Equal Subset Sum](https://www.geeksforgeeks.org/problems/subset-sum-problem2014/1) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2024/DP/255%20-%20Partition%20Equal%20Subset%20Sum.md)
 |  | [256 - Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2024/Segment%20Tree/256%20-%20Range%20Sum%20Query%20-%20Immutable.md)
 |  | [257 - Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2024/DP/255%20-%20Partition%20Equal%20Subset%20Sum.md)
 |  | [258 - Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2024/Segment%20Tree/258%20-%20Count%20of%20Range%20Sum.md)
 | | | | 
-| **Day 25** | [259 - CHOCOLA - Chocolate](https://www.spoj.com/problems/CHOCOLA/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2025/Greedy/259%20-%20CHOCOLA%20-%20Chocolate.md) | 
+| **Day 26** | [259 - CHOCOLA - Chocolate](https://www.spoj.com/problems/CHOCOLA/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2025/Greedy/259%20-%20CHOCOLA%20-%20Chocolate.md) | 
 |  | [260 - Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2025/Greedy/260%20-%20Non-overlapping%20Intervals.md)
 |  | [261 - Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2025/Greedy/261%20-%20Minimum%20Time%20to%20Make%20Rope%20Colorful.md)
 |  | [262 - Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2025/Backtracking/262%20-%20Combination%20Sum%20II.md)
 |  | [263 - Combinations](https://leetcode.com/problems/combinations/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2025/Backtracking/263%20-%20Combinations.md)
+| | | | 
+| **Day 27** | [264 - Subsets II](https://leetcode.com/problems/subsets-ii/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2027/Backtracking/264%20-%20Subsets%20II.md) | 
+|  | [265 - M-Coloring Problem](https://www.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2027/Backtracking/265%20-%20M-Coloring%20Problem.md)
+|  | [266 - Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2027/Backtracking/266%20-%20Beautiful%20Arrangement.md)
+|  | [267 - Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2027/Backtracking/267%20-%20Palindrome%20Partitioning.md)
 
 ![image.png](https://assets.leetcode.com/users/images/dd42a649-e1d9-4b22-9eb8-add015c24468_1721761764.4795635.png)
 
