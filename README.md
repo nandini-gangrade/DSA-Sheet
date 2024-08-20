@@ -424,6 +424,11 @@ This approach is efficient and handles large inputs well within the given constr
 |  | [265 - M-Coloring Problem](https://www.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2027/Backtracking/265%20-%20M-Coloring%20Problem.md)
 |  | [266 - Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2027/Backtracking/266%20-%20Beautiful%20Arrangement.md)
 |  | [267 - Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2027/Backtracking/267%20-%20Palindrome%20Partitioning.md)
+| | | | 
+| **Day 28** | [268- Permutations II](https://leetcode.com/problems/permutations-ii/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2028/Backtracking/268%20-%20Permutations%20II.md) | 
+|  | [269 - Subsets](https://leetcode.com/problems/subsets/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2028/Backtracking/269%20-%20Subsets.md)
+|  | [270 - N-Queens](https://leetcode.com/problems/n-queens/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2028/Backtracking/270%20-%20N-Queens.md)
+|  | [271 - Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2028/Backtracking/271%20-%20Sudoku%20Solver.md)
 
 ![image.png](https://assets.leetcode.com/users/images/dd42a649-e1d9-4b22-9eb8-add015c24468_1721761764.4795635.png)
 
