@@ -429,6 +429,11 @@ This approach is efficient and handles large inputs well within the given constr
 |  | [269 - Subsets](https://leetcode.com/problems/subsets/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2028/Backtracking/269%20-%20Subsets.md)
 |  | [270 - N-Queens](https://leetcode.com/problems/n-queens/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2028/Backtracking/270%20-%20N-Queens.md)
 |  | [271 - Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2028/Backtracking/271%20-%20Sudoku%20Solver.md)
+| | | | 
+| **Day 29** | [279 - Largest number in K swaps](https://www.geeksforgeeks.org/problems/largest-number-in-k-swaps-1587115620/1) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2029/279%20-%20Largest%20number%20in%20K%20swaps.md) | 
+|  | [280 - Partition array to K subsets](https://www.geeksforgeeks.org/problems/partition-array-to-k-subsets/1) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2029/280%20-%20Partition%20array%20to%20K%20subsets.md)
+|  | [281 - Tug of War](https://www.geeksforgeeks.org/tug-of-war/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2029/281%20-%20Tug%20of%20War.md)
+
 
 ![image.png](https://assets.leetcode.com/users/images/dd42a649-e1d9-4b22-9eb8-add015c24468_1721761764.4795635.png)
 
