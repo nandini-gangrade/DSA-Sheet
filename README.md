@@ -433,7 +433,10 @@ This approach is efficient and handles large inputs well within the given constr
 | **Day 29** | [279 - Largest number in K swaps](https://www.geeksforgeeks.org/problems/largest-number-in-k-swaps-1587115620/1) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2029/279%20-%20Largest%20number%20in%20K%20swaps.md) | 
 |  | [280 - Partition array to K subsets](https://www.geeksforgeeks.org/problems/partition-array-to-k-subsets/1) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2029/280%20-%20Partition%20array%20to%20K%20subsets.md)
 |  | [281 - Tug of War](https://www.geeksforgeeks.org/tug-of-war/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2029/281%20-%20Tug%20of%20War.md)
-
+| | | | 
+| **Day 30** | [282 - Find paths from corner cell to middle cell in maze](https://www.geeksforgeeks.org/find-paths-from-corner-cell-to-middle-cell-in-maze/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%203/Backtracking/282%20-%20Find%20paths%20from%20corner%20cell%20to%20middle%20cell%20in%20maze.md) | 
+|  | [283 - Solving Cryptarithmetic Puzzles](https://www.geeksforgeeks.org/solving-cryptarithmetic-puzzles/) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%2029/280%20-%20Partition%20array%20to%20K%20subsets.md)
+|  | [284 - Find all possible palindromic partitions of a String](https://www.geeksforgeeks.org/problems/find-all-possible-palindromic-partitions-of-a-string/1) | [Link](https://github.com/nandini-gangrade/DSA-Sheet/blob/main/DAY%203/Backtracking/284%20-%20Find%20all%20possible%20palindromic%20partitions%20of%20a%20String.md)
 
 ![image.png](https://assets.leetcode.com/users/images/dd42a649-e1d9-4b22-9eb8-add015c24468_1721761764.4795635.png)
 
